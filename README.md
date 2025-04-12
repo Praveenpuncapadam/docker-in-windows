@@ -1,4 +1,4 @@
-# How to run dokcer on windiws without Docker Desktop.
+# How to run docker on windiws without Docker Desktop.
 In corperate environments, Devops engineers and developers often face challenges to test and deploy the docker in thier local development environment. To avoid this we normally realy on the Docker desktop. Docker Desktop required paid subscription for corperate use, which can be a concern for companies who looking minimize the costs.
 
 To address this issue, an alternative approce is to leverage Windows Subsystem for Linux (WSL). By using WSL, Developers can setup and run Docker in linux environment directly on their wines mechine without the need for Docker Desktop. Tis solution not only eliminates the license cost but also provide a lightweight and efficient way to manage docker builds in the development environent.
